@@ -8,6 +8,5 @@ function countDecimals(num) {
     return str.split("").length;
   }
 }
-console.log(countDecimals(124.1523));
 
 module.exports = countDecimals;
